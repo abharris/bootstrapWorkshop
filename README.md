@@ -4,3 +4,7 @@
 
 # What are some issues/downsides you could run into by using Bootstrap in industry?
 ## I think one of the downsides like they explained in their presentation is the fact that websites can look similar if they’re made with Bootstrap. If you’re making a tech product, you want it to be unique. You’d also definitely want full customization, which Bootstrap may not be able to provide. Also as we talked about it can be sort of slow and an overload of classes/feautres one might not need.
+
+## Feedback
+
+I think they did a great job! I liked how easy to follow their tutorial was and how they explained why its so useful!
